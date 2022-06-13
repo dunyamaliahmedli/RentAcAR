@@ -1,0 +1,128 @@
+/* header{
+    background-color: white;
+} */
+
+.bg-img{
+    background-image: url(https://m.economictimes.com/thumb/msid-90758028,width-770,height-431,resizemode-4,imgsize-9086/bmw.jpg);
+    background-size: 100%;
+    height: 52vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.text {
+color: white;
+padding-top: 400px;
+}
+.search{
+    background-color: violet;
+    height: 37vh;
+    width: 150px;
+
+}
+.forwrap {
+    max-width: 350px;
+    background: rgba(40, 66, 205, 0.91);
+    width: 250px;
+    padding: 30px;
+    margin-top: -290px;
+    margin-right: 270px;
+    border: 1px solid #fff;
+    position: absolute;
+  
+    right: 0;
+    z-index: 1000;
+
+}
+.xett{
+    width: 60px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 890px;
+    color: blue;
+  
+}
+.metn{
+    width: 55%;
+    margin-left: 415px;
+}
+.sol{
+    width: 350px;
+}
+.sag{
+    width: 350px;
+}
+.carst{
+    width: 250px;
+    height: 47px;
+    background-color: whitesmoke;
+  
+    text-decoration: none;
+    transition: 1;
+    position: relative;
+}
+.carst a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    transition: 1;
+    position: relative;
+}
+.carst a :hover{
+    color: blue;
+    background-color: white;
+}
+.carst :hover{
+    background-color: white;
+}
+.melumat{
+    border: 1px solid black;
+    background-color: white;
+
+}
+.netice{
+    background-image: url(http://malikhassan.com/html/car-rental/html/images/counter-bg.jpg);
+    width: 100%;
+    height: 30vh;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.Client{
+    color: white;
+
+}
+.caaar{
+    color: white;
+}
+.comp{
+    color: white;
+}
+.Award{
+    color: white;
+}
+.inputemail{
+    width: 370px;
+height: 55px;
+}
+.head2{
+    background-color: #2842cd;;
+  
+}
+.emailll{
+    height: 450px;
+    width: 1080px;
+    background-color: #3c3737;
+}
+.emailll input{
+    background-color:#3c3737 ;
+}
+.emailll button{
+    background-color: white;
+    color: blue;
+}
+.footerr{
+    width: 100%;
+    height: 10vh;
+    background-color: gainsboro;
+}
